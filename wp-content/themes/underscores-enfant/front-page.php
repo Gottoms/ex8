@@ -60,11 +60,15 @@ get_header();
 
             "category_name" => "evenement",
 
-
         );
 
          //The 2nd Query (without global var) 
          $query2 = new WP_Query( $args2 );
+
+
+        $category = get_the_category($args2);
+
+         echo "<h2>" . category_description($category[0]) . "</h2>";
 
         // The 2nd Loop
         while ( $query2->have_posts() ) {
