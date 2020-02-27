@@ -1845,3 +1845,124 @@ Stack trace:
   thrown in C:\xampp\htdocs\ex8\wp-content\themes\underscores-enfant\front-page.php on line 69
 [27-Feb-2020 21:35:05 UTC] PHP Notice:  Undefined variable: category in C:\xampp\htdocs\ex8\wp-content\themes\underscores-enfant\front-page.php on line 69
 [27-Feb-2020 21:35:05 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\ex8\wp-content\themes\underscores-enfant\front-page.php on line 69
+[27-Feb-2020 21:40:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function underscores_post_thumbnail() in C:\xampp\htdocs\ex8\wp-content\themes\astral-enfant\template-parts\content-page.php:17
+Stack trace:
+#0 C:\xampp\htdocs\ex8\wp-includes\template.php(724): require()
+#1 C:\xampp\htdocs\ex8\wp-includes\template.php(671): load_template('C:\\xampp\\htdocs...', false)
+#2 C:\xampp\htdocs\ex8\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#3 C:\xampp\htdocs\ex8\wp-content\themes\astral-enfant\front-page.php(24): get_template_part('template-parts/...', 'page')
+#4 C:\xampp\htdocs\ex8\wp-includes\template-loader.php(98): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\ex8\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\ex8\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\ex8\wp-content\themes\astral-enfant\template-parts\content-page.php on line 17
+[27-Feb-2020 21:40:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function underscores_post_thumbnail() in C:\xampp\htdocs\ex8\wp-content\themes\astral-enfant\template-parts\content-page.php:17
+Stack trace:
+#0 C:\xampp\htdocs\ex8\wp-includes\template.php(724): require()
+#1 C:\xampp\htdocs\ex8\wp-includes\template.php(671): load_template('C:\\xampp\\htdocs...', false)
+#2 C:\xampp\htdocs\ex8\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#3 C:\xampp\htdocs\ex8\wp-content\themes\astral-enfant\front-page.php(24): get_template_part('template-parts/...', 'page')
+#4 C:\xampp\htdocs\ex8\wp-includes\template-loader.php(98): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\ex8\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\ex8\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\ex8\wp-content\themes\astral-enfant\template-parts\content-page.php on line 17
+[27-Feb-2020 21:41:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function underscores_post_thumbnail() in C:\xampp\htdocs\ex8\wp-content\themes\astral-enfant\template-parts\content-page.php:17
+Stack trace:
+#0 C:\xampp\htdocs\ex8\wp-includes\template.php(724): require()
+#1 C:\xampp\htdocs\ex8\wp-includes\template.php(671): load_template('C:\\xampp\\htdocs...', false)
+#2 C:\xampp\htdocs\ex8\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#3 C:\xampp\htdocs\ex8\wp-content\themes\astral-enfant\front-page.php(24): get_template_part('template-parts/...', 'page')
+#4 C:\xampp\htdocs\ex8\wp-includes\template-loader.php(98): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\ex8\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\ex8\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\ex8\wp-content\themes\astral-enfant\template-parts\content-page.php on line 17
+[27-Feb-2020 21:41:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function underscores_post_thumbnail() in C:\xampp\htdocs\ex8\wp-content\themes\astral-enfant\template-parts\content-page.php:17
+Stack trace:
+#0 C:\xampp\htdocs\ex8\wp-includes\template.php(724): require()
+#1 C:\xampp\htdocs\ex8\wp-includes\template.php(671): load_template('C:\\xampp\\htdocs...', false)
+#2 C:\xampp\htdocs\ex8\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#3 C:\xampp\htdocs\ex8\wp-content\themes\astral-enfant\front-page.php(24): get_template_part('template-parts/...', 'page')
+#4 C:\xampp\htdocs\ex8\wp-includes\template-loader.php(98): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\ex8\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\ex8\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\ex8\wp-content\themes\astral-enfant\template-parts\content-page.php on line 17
+[27-Feb-2020 21:41:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function underscores_post_thumbnail() in C:\xampp\htdocs\ex8\wp-content\themes\astral-enfant\template-parts\content-page.php:17
+Stack trace:
+#0 C:\xampp\htdocs\ex8\wp-includes\template.php(724): require()
+#1 C:\xampp\htdocs\ex8\wp-includes\template.php(671): load_template('C:\\xampp\\htdocs...', false)
+#2 C:\xampp\htdocs\ex8\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#3 C:\xampp\htdocs\ex8\wp-content\themes\astral-enfant\front-page.php(24): get_template_part('template-parts/...', 'page')
+#4 C:\xampp\htdocs\ex8\wp-includes\template-loader.php(98): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\ex8\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\ex8\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\ex8\wp-content\themes\astral-enfant\template-parts\content-page.php on line 17
+[27-Feb-2020 21:41:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function underscores_post_thumbnail() in C:\xampp\htdocs\ex8\wp-content\themes\astral-enfant\template-parts\content-page.php:17
+Stack trace:
+#0 C:\xampp\htdocs\ex8\wp-includes\template.php(724): require()
+#1 C:\xampp\htdocs\ex8\wp-includes\template.php(671): load_template('C:\\xampp\\htdocs...', false)
+#2 C:\xampp\htdocs\ex8\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#3 C:\xampp\htdocs\ex8\wp-content\themes\astral-enfant\front-page.php(24): get_template_part('template-parts/...', 'page')
+#4 C:\xampp\htdocs\ex8\wp-includes\template-loader.php(98): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\ex8\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\ex8\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\ex8\wp-content\themes\astral-enfant\template-parts\content-page.php on line 17
+[27-Feb-2020 21:41:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function underscores_post_thumbnail() in C:\xampp\htdocs\ex8\wp-content\themes\astral-enfant\template-parts\content-page.php:17
+Stack trace:
+#0 C:\xampp\htdocs\ex8\wp-includes\template.php(724): require()
+#1 C:\xampp\htdocs\ex8\wp-includes\template.php(671): load_template('C:\\xampp\\htdocs...', false)
+#2 C:\xampp\htdocs\ex8\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#3 C:\xampp\htdocs\ex8\wp-content\themes\astral-enfant\front-page.php(24): get_template_part('template-parts/...', 'page')
+#4 C:\xampp\htdocs\ex8\wp-includes\template-loader.php(98): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\ex8\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\ex8\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\ex8\wp-content\themes\astral-enfant\template-parts\content-page.php on line 17
+[27-Feb-2020 21:41:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function underscores_post_thumbnail() in C:\xampp\htdocs\ex8\wp-content\themes\astral-enfant\template-parts\content-page.php:17
+Stack trace:
+#0 C:\xampp\htdocs\ex8\wp-includes\template.php(724): require()
+#1 C:\xampp\htdocs\ex8\wp-includes\template.php(671): load_template('C:\\xampp\\htdocs...', false)
+#2 C:\xampp\htdocs\ex8\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#3 C:\xampp\htdocs\ex8\wp-content\themes\astral-enfant\front-page.php(24): get_template_part('template-parts/...', 'page')
+#4 C:\xampp\htdocs\ex8\wp-includes\template-loader.php(98): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\ex8\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\ex8\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\ex8\wp-content\themes\astral-enfant\template-parts\content-page.php on line 17
+[27-Feb-2020 21:41:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function underscores_post_thumbnail() in C:\xampp\htdocs\ex8\wp-content\themes\astral-enfant\template-parts\content-page.php:17
+Stack trace:
+#0 C:\xampp\htdocs\ex8\wp-includes\template.php(724): require()
+#1 C:\xampp\htdocs\ex8\wp-includes\template.php(671): load_template('C:\\xampp\\htdocs...', false)
+#2 C:\xampp\htdocs\ex8\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#3 C:\xampp\htdocs\ex8\wp-content\themes\astral-enfant\front-page.php(24): get_template_part('template-parts/...', 'page')
+#4 C:\xampp\htdocs\ex8\wp-includes\template-loader.php(98): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\ex8\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\ex8\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\ex8\wp-content\themes\astral-enfant\template-parts\content-page.php on line 17
+[27-Feb-2020 21:41:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function underscores_post_thumbnail() in C:\xampp\htdocs\ex8\wp-content\themes\astral-enfant\template-parts\content-page.php:17
+Stack trace:
+#0 C:\xampp\htdocs\ex8\wp-includes\template.php(724): require()
+#1 C:\xampp\htdocs\ex8\wp-includes\template.php(671): load_template('C:\\xampp\\htdocs...', false)
+#2 C:\xampp\htdocs\ex8\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#3 C:\xampp\htdocs\ex8\wp-content\themes\astral-enfant\front-page.php(24): get_template_part('template-parts/...', 'page')
+#4 C:\xampp\htdocs\ex8\wp-includes\template-loader.php(98): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\ex8\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\ex8\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\ex8\wp-content\themes\astral-enfant\template-parts\content-page.php on line 17
+[27-Feb-2020 21:41:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function underscores_post_thumbnail() in C:\xampp\htdocs\ex8\wp-content\themes\astral-enfant\template-parts\content-page.php:17
+Stack trace:
+#0 C:\xampp\htdocs\ex8\wp-includes\template.php(724): require()
+#1 C:\xampp\htdocs\ex8\wp-includes\template.php(671): load_template('C:\\xampp\\htdocs...', false)
+#2 C:\xampp\htdocs\ex8\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#3 C:\xampp\htdocs\ex8\wp-content\themes\astral-enfant\front-page.php(24): get_template_part('template-parts/...', 'page')
+#4 C:\xampp\htdocs\ex8\wp-includes\template-loader.php(98): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\ex8\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\ex8\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\ex8\wp-content\themes\astral-enfant\template-parts\content-page.php on line 17

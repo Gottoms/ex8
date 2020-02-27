@@ -1,0 +1,86 @@
+/*
+ Theme Name:   Astrl Enfant
+ Theme URI:    http://example.com/astral-enfant/
+ Description:  Astral Enfant
+ Author:       Jean-Thomas Morin
+ Author URI:   http://example.com
+ Template:     astral
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  astralenfant
+*/
+
+body {
+
+    background-color: rgb(24, 24, 24);
+    color: rgb(143, 143, 143);
+    font-family: 'Roboto';
+
+}
+
+.post-thumbnail {
+
+    width: 100%;
+
+}
+
+.post-thumbnail img {
+
+    width: 100%;
+
+}
+
+#page {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.skip-link {
+
+    display: none;
+
+}
+
+#masthead {
+
+    display: none;
+
+}
+
+header {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 10px;
+
+}
+
+h1 {
+
+    font-size: 5em;
+
+}
+
+h2 {
+
+    color: red;
+
+}
+
+.entry-meta {
+
+    display: none;
+
+}
+
+.entry-footer {
+
+    display: none;
+
+}
