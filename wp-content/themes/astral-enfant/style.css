@@ -14,25 +14,20 @@
 
 body {
 
-    background-color: rgb(24, 24, 24);
+    background-color: rgb(39, 39, 39);
     color: rgb(143, 143, 143);
     font-family: 'Roboto';
 
 }
 
-.post-thumbnail {
+#home {
 
-    width: 100%;
-
-}
-
-.post-thumbnail img {
-
-    width: 100%;
+    background-color: rgb(39, 39, 39);
+    color: rgb(194, 194, 194);
 
 }
 
-#page {
+#main {
 
     display: flex;
     flex-direction: column;
@@ -40,47 +35,9 @@ body {
 
 }
 
-.skip-link {
+li {
 
-    display: none;
-
-}
-
-#masthead {
-
-    display: none;
-
-}
-
-header {
-
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin-bottom: 10px;
-
-}
-
-h1 {
-
-    font-size: 5em;
-
-}
-
-h2 {
-
-    color: red;
-
-}
-
-.entry-meta {
-
-    display: none;
-
-}
-
-.entry-footer {
-
-    display: none;
+    list-style-type: none;
+    font-weight: bold;
 
 }
