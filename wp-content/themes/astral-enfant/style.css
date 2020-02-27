@@ -27,11 +27,20 @@ body {
 
 }
 
+.skip-link, .header_contact, .menu1, #colophon {
+
+    display: none;
+
+}
+
 #main {
 
     display: flex;
     flex-direction: column;
     align-items: center;
+    background-color: rgb(39, 39, 39);
+    color: rgb(194, 194, 194);
+    padding: 10px 10px 10px 10px;
 
 }
 
@@ -41,3 +50,34 @@ li {
     font-weight: bold;
 
 }
+
+.event-right1 {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(39, 39, 39);
+    color: rgb(194, 194, 194);
+    padding-bottom: 20px;
+
+}
+
+#logo p {
+
+    display: none;
+
+}
+
+#logo a {
+
+    text-decoration: none;
+    color: rgb(194, 194, 194);
+
+}
+
+p {
+
+    text-align: center;
+
+}
+
